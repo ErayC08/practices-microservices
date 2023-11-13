@@ -26,4 +26,8 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>book-module</module>
+    </modules>
+
 </project>
